@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayan200729
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ayanpoddar990@gmail.com
 
